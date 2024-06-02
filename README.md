@@ -1,5 +1,5 @@
 # parthsaxenaa.github.io
-# My Portfolio
+## My Portfolio
 
 Welcome to my personal portfolio website! This site showcases my projects, skills, and contact information.
 
