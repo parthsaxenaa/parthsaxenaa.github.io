@@ -3,13 +3,6 @@
 
 Welcome to my personal portfolio website! This site showcases my projects, skills, and contact information.
 
-![Portfolio Screenshot](./readme-images/Screenshot 2024-06-02 130205.png)
-
-## Table of Contents
-
-- [About](#about)
-- [Projects](#projects)
-- [Contact](#contact)
 
 ## About
 
